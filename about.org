@@ -1,5 +1,3 @@
 #+TITLE: About
 
-* About Nathan Hitchings
-
-  I am Nathan. I build iOS apps. I also do other things.
+I am Nathan. I build iOS apps. I also do other things.
